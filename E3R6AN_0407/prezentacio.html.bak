@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+
+<html lang="hu">
+
+ <head>
+  <meta charset="UTF-8">
+  <title>Prezentáció</title>
+ </head>
+ 
+ <body style="background:transparent; color:white; font-family:tahoma; font-size:10pt">
+  
+	<br><br><br>
+	<img src="kepek/prezentacio.png" height="200" border="0" alt="" style="float:right">
+
+	<b>Prezentáció készítése</b>
+
+	<br><br>
+
+	Ez a tantárgy a prezentáció készítése alapjait tartalmazza.
+
+	<br><br>
+
+	<b>Tartalom</b>
+
+		<ul>
+			<li>Prezentációs programok szolgáltatással
+			<li>Prezentáció felépítése
+			<li>Prezentáció készítése fajtái
+			<li>Szöveg és objektumok elhelyezése
+			<li>Formázás automatikus eszközökkel
+			<li>Egyéni animáció
+			<li>Áttűnés, időzítés
+			<li>Egyéni formátumok beállításai
+			<li>Hiperhivatkozás
+			<li>Kész prezentáció készítése
+		</ul>
+
+ </body>
+</html>
