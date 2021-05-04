@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+
+<html lang="hu">
+
+ <head>
+  <title> Saját miniweblap készítése </title>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+ </head>
+ 
+ 
+ <body style="background:transparent; color:black; font-family:tahoma; font-size:18pt; text-align:center">
+
+	<br><br>
+
+	<b>Üdvözöllek a mini weblapomon!</b>
+
+	<br><br>
+
+	Ez a weblap három tantárgy tematikáját mutatja be.
+
+ </body>
+</html>

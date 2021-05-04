@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+
+<html lang="hu">
+
+ <head>
+  <meta charset="UTF-8">
+  <title>Ipari kommunikációs és SCADA rendszerek I.</title>
+ </head>
+ 
+ <body style="background:transparent; color:white; font-family:tahoma; font-size:10pt">
+  
+	<br><br><br>
+	<img src="kepek/ipkom.jpg" height="200" border="0" alt="" style="float:right">
+
+	<font style="font-size:14pt"><b>Ipari kommunikációs és SCADA rendszerek I.</b></font>
+
+	<br><br>
+
+	Ez az oldal az <strong><em>Ipari kommunikációs és SCADA rendszerek I.</em></strong> című tantárgy tematikáját tartalmazza.
+
+	<br><br>
+
+	<b>Feladata és célja:</b>
+	A kommunikációval, kommunikációs rendszerekkel kapcsolatos alapismeretek elsajátítása. A vezetékes ipari kommunikációs rendszerek megismerése.
+
+	<br><br>
+
+	<b>Tematika</b>
+
+		<ul>
+			<li>Bevezetés az információ‐ és kódolás elméletbe.
+			<li>Adatátviteli és kommunikációtechnikai ismeretek.
+			<li>Az adatátvitel elméleti alapjai, fizikai jellemzők, vonali kódolás, szinkronizálás, protokoll.
+			<li>Hibavédelmi kódolás.
+			<li>Átviteli közegek, zajok, zavarforrások.
+			<li>Kommunikációs hálózatok, kapcsolási módok, LAN topológiák.
+			<li>OSI referencia modell.
+			<li>Az adatkapcsolati réteg funkciói.
+			<li>A hálózatok összekapcsolásának elemei.
+			<li>Modemek és multiplexerek.
+			<li>USB kommunikáció.
+			<li>Ipari kommunikációs rendszerek története és fejlődése.
+			<li>CAN busz.
+			<li>Devicenet és Controlnet.
+			<li>Létesítményautomatizálási hálózatok (EIB).
+			<li>Soros kommunikációs szabványok: RS‐232, RS‐422, RS‐423. RS‐485.
+			<li>A MODBUS protokoll. PROFIBUS DP. AS‐I interfész. Az Interbus kommunikációs rendszer.
+		</ul>
+
+ </body>
+</html>

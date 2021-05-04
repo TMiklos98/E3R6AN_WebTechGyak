@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+
+<html lang="hu">
+
+ <head>
+  <meta charset="UTF-8">
+  <title> Villamosságtan II. </title>
+ </head>
+ 
+ <body style="background:transparent; color:white; font-family:tahoma; font-size:10pt">
+	
+	<br><br><br>
+	<img src="kepek/bode.png" height="200" border="0" alt="" style="float:right">
+
+	<font style="font-size:14pt"><b>Villamosságtan II.</b></font>
+
+	<br><br>
+
+	Ez az oldal a <strong><em>Villamosságtan II.</em></strong> című tantárgy tematikáját tartalmazza.
+
+	<br><br>
+
+	<b>Feladata és célja:</b>
+	A villamos hálózatok számolási módszerei elsajátítása idő‐ frekvencia és komplex frekvencia tartományban.
+
+	<br><br>
+
+	<b>Tematikája</b>
+
+	<ul>
+		<li>Négypólusok fogalma, paraméterrendszerek, helyettesítő kapcsolások. Négypólusok összekapcsolása, lezárása. Átviteli mennyiségek.
+		<li>A Bode diagram alapesetei, konstans, elsőfokú tagok szerkesztése, másodfokú tagok, eredő átviteli függvény szerkesztése.
+		<li>Átviteli függvény ábrázolási módszerei. Nyquist diagram.
+		<li>Trenziens jelenségek vizsgálata. Differenciál egyenletek felírása, megoldása általános esetben.
+		<li>Laplace transzformáció definíciója, fontosabb tulajdonságai. Derivált és integrál transzformációja.
+		<li>Operátoros impedanciák.
+		<li>Bekapcsolási jelenségek. Energiamentes kezdőállapot.
+		<li>Speciális vizsgálójelek, egységugrás, Dirac-delta, egyszerű függvények Laplace transzformáltja.
+		<li>Inverz transzformáció, kifejtési tétel.
+	</ul>
+
+ </body>
+</html>
