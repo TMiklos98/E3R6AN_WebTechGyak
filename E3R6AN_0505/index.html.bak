@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<title>CSS 3</title>
+
+		<link rel="stylesheet" href="stilus.css">
+
+		<style>
+			h1{
+				font-size: 26pt;
+				color: navy;
+			}
+		</style>
+	</head>
+ <body>
+ 		<h1 style="font-size: 18pt; margin-left: 30px;">Ez az oldal fejlece</h1>
+  
+ </body>
+</html>
